@@ -37,7 +37,7 @@ The API is built with **Node.js, Express, and TypeScript**, utilizing **MongoDB*
    Create a ````.env```` file in the root directory and add your configurations:
    ```bash
    PORT=3000
-   MONGODB_URI=mongodb://127.0.0.1:27017/mploychek_eval
+   MONGODB_URI=mongodb://127.0.0.1:27017/angular_assessment
    JWT_SECRET=your_super_secret_jwt_key
    ```
 4. Seed the Database:
