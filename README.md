@@ -26,7 +26,7 @@ The API is built with **Node.js, Express, and TypeScript**, utilizing **MongoDB*
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/unleashedme/Angular-Assessment-Frontend.git
+   git clone https://github.com/unleashedme/Angular-Assessment-Backend.git
    cd Angular-Assessment-Backend
    ```
 2. Install dependencies:
